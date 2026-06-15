@@ -1,0 +1,22 @@
+```json
+{
+  "GameVersion": "1.0.0-HDRP-VoxelBuild",
+  "GlobalVolume": 0.8,
+  "TargetFramerate": 144,
+  "BaseMovementSpeed": 9.0,
+  "Gravity": -22.0,
+  "ChunkSize": 32,
+  "WorldHeight": 256,
+  "PlayerInventory": {
+    "MaxSlots": 36,
+    "StartingLoadout": ["AssaultRifle_Energy", "VoxelPickaxe", "HealthStim_T1"]
+  },
+  "GraphicsOverrides": {
+    "VolumetricFogEnabled": true,
+    "CinematicBloomIntensity": 2.5,
+    "RaytracedShadows": true,
+    "GodRaysQuality": "High"
+  }
+}
+
+```
